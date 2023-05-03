@@ -3,7 +3,8 @@
 
 Analyzing the steam game dataset from Kaggle and examine how to distribute and sort out better games from several features.
 
-
+## Tools
+R & Tableau
 
 
 ## Data
